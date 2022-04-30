@@ -1,0 +1,103 @@
+.header-blue {
+  background: linear-gradient(135deg, #851a32, #71555c);
+  background-color: #851a32;
+  padding-bottom: 120px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+@media (max-width:767px) {
+  .header-blue {
+    padding-bottom: 80px;
+  }
+}
+
+.header-blue .action-button, .header-blue .action-button:active {
+  border: 1px solid rgba(255,255,255,0.7);
+  border-radius: 20px;
+  color: #ebeff1;
+  box-shadow: none;
+  text-shadow: none;
+  padding: 6px 15px;
+  background: transparent;
+  transition: background-color 0.25s;
+  outline: none;
+}
+
+.header-blue .action-button:hover {
+  color: #fff;
+}
+
+.header-blue .action-button.btn-lg {
+  padding: 7px 18px;
+}
+
+.btn.btn-default.action-button {
+  margin-right: 10px;
+}
+
+.btn.btn-default.action-button {
+  margin-right: 10px;
+}
+
+div.container {
+  max-width: 1024px;
+}
+
+#Headding {
+  background: #2c4f8b;
+}
+
+#main-banner {
+  background: linear-gradient(130deg, rgb(44,79,139) 0%, rgba(44,79,139,0) 67%), url("../../assets/img/Banner-billy_quirofano.png") 55% / cover no-repeat;
+}
+
+@media (min-width: 992px) {
+  body {
+    font-size: 1.5rem;
+  }
+}
+
+body {
+  font-family: Perpetua;
+}
+
+.custom-shape-divider-bottom-1646093093 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1646093093 svg {
+  position: relative;
+  display: block;
+  width: calc(193% + 1.3px);
+  height: 130px;
+}
+
+.custom-shape-divider-bottom-1646093538 .shape-fill {
+  fill: #FFFFFF;
+}
+
+
+#hero-cadera {
+  background: linear-gradient(rgb(44, 79, 139), rgba(255,255,255,0)), url("../../assets/img/DSF0057.jpg") bottom / cover no-repeat;
+  height: 70vh;
+}
+
+#hero-deformidades {
+  background: linear-gradient(rgb(255,255,255), rgba(255,255,255,0)), url("../../assets/img/DSF0067.jpg") bottom / cover no-repeat;
+  height: 70vh;
+}
+
+#hero-rodilla-1 {
+  background: linear-gradient(rgb(255,255,255), rgba(255,255,255,0)), url("../../assets/img/DSF0093.jpg") bottom / cover no-repeat;
+  height: 70vh;
+}
+
+#seccion-4 {
+  background: #2c4f8b;
+  color: var(--bs-body-bg);
+}

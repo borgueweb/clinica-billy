@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Perpetua';
+	src: url(/assets/fonts/Perpetua.eot) format('embedded-opentype'),
+	url(/assets/fonts/Perpetua.eot) format('embedded-opentype'),
+	url(/assets/fonts/Perpetua.woff2) format('woff2'),
+	url(/assets/fonts/Perpetua.woff) format('woff'),
+	url(/assets/fonts/Perpetua.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
